@@ -27,4 +27,14 @@ A list of useful code snippets, scripts, functions and modules that I looted and
 2) PHP
    * Arrays
    * Strings
-   * 
+   * Archives
+   * DNS
+     * IPs
+     * Domains
+   * Images
+   * Files
+     * JSON
+   * Numbers
+   * Tasks
+   * Urls
+   * Other
