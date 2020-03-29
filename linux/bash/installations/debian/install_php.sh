@@ -10,6 +10,7 @@ fi
 PHP_VER=$1;
 PHP_EXT=(
     cli,
+    fpm,
     common,
     curl,
     gd,
